@@ -1,0 +1,16 @@
+{
+  "name": "cucumber_testcafe_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js.cmd"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^7.0.0-rc.0",
+    "cucumber-html-reporter": "^5.2.0",
+    "testcafe": "^1.9.4"
+  }
+}
